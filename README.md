@@ -36,7 +36,7 @@ Install the Urdu language pack via composer is never easier.
 **Install Urdu pack**:
 
 ```
-composer require mageplaza/magento-2-urdu-language-pack:*
+composer require mageplaza/magento-2-urdu-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ur-pk
 
@@ -46,7 +46,7 @@ php bin/magento setup:static-content:deploy ur-pk
 **Update  Urdu pack**:
 
 ```
-composer update mageplaza/magento-2-urdu-language-pack:*
+composer update mageplaza/magento-2-urdu-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ur-pk
 
