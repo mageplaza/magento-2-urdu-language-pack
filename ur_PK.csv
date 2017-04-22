@@ -2726,6 +2726,7 @@ Payment,Payment,module,Magento_Checkout
 "Not yet calculated","Not yet calculated",module,Magento_Checkout
 "We received your order!","We received your order!",module,Magento_Checkout
 "Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
+"Go to Checkout","Go to Checkout",module,Magento_Checkout
 "Terms and Conditions","Terms and Conditions",module,Magento_CheckoutAgreements
 "Add New Condition","Add New Condition",module,Magento_CheckoutAgreements
 "Save Condition","Save Condition",module,Magento_CheckoutAgreements
