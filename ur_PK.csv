@@ -2727,6 +2727,9 @@ Payment,Payment,module,Magento_Checkout
 "We received your order!","We received your order!",module,Magento_Checkout
 "Thank you for your purchase!","Thank you for your purchase!",module,Magento_Checkout
 "Go to Checkout","Go to Checkout",module,Magento_Checkout
+"View and edit cart","View and edit cart",module,Magento_Checkout
+"Item in Cart","Item in Cart",module,Magento_Checkout
+"Items in Cart","Items in Cart",module,Magento_Checkout
 "Terms and Conditions","Terms and Conditions",module,Magento_CheckoutAgreements
 "Add New Condition","Add New Condition",module,Magento_CheckoutAgreements
 "Save Condition","Save Condition",module,Magento_CheckoutAgreements
@@ -6310,6 +6313,7 @@ Partners,Partners,module,Magento_Marketplace
 "Read More","Read More",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,Synchronize,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,Synchronizing...,module,Magento_MediaStorage
