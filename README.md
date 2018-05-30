@@ -1,6 +1,6 @@
 ## Magento 2 Urdu Language Pack
 
-How to install **Magento 2 Urdu Language Pack** on Magento 2 store? The best explanation will be pointed out in this topic with the same topic that is built by Mageplaza team. The post allows replacing the default language (English) by the native one (Urdu). That is great idea when your business is growing in Parkistan. Thanks to that, you will gain the expectable results in the conversion.
+How to install **Magento 2 Urdu Language Pack** on Magento 2 store? The best explanation will be pointed out in this topic with the same topic that is built by Mageplaza team. The post allows replacing the default language (English) by the native one (Urdu). That is great idea when your business is growing in Pakistan. Thanks to that, you will gain the expectable results in the conversion.
 
 In this guide, not only the installation guide, you are also directed how to get the translation file through clicking on "Download .zip" button. All requirements to apply the Urdu on the entire store are referred fully and apparently. Take a look at the post now!
 
