@@ -9,13 +9,13 @@ Read more [Magento 2 Urdu Language Pack](https://www.mageplaza.com/magento-2-urd
 
 ## Overview
 
-1. [Language Package Process](#1-language-package-process)
-2. [Install Urdu Language Pack](#2-how-to-install-hungarian-language-pack)
-3. [How to active Urdu language pack](#3-how-to-active-hungarian-language-pack)
-4. [How to contribute](#4-how-to-contribute)
-5. [Supported Magento versions](#5-supported-magento-version)
-6. [Notes](#6-notes})
-7. [Language package authors](#7-language-package-authors)
+1. Language Package Process
+2. Install Urdu Language Pack
+3. How to active Urdu language pack
+4. How to contribute
+5. Supported Magento versions
+6. Notes
+7. Language package authors
 
 ## 1. Language Package Process
 
