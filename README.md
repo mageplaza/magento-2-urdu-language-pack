@@ -91,8 +91,11 @@ Unzip the Urdu language pack to Magento 2 root folder. In this guide, we extract
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/ur_pk
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-urdu-language-pack` to `ur_pk`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -112,7 +115,11 @@ To download and install Urdu pack manually, you have to access to your server vi
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `ur_PK.zip` into `app/i18n/mageplaza/ur_PK/ur_PK.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ur_pk/ur_PK.csv`
+
+See this screenshot
+
+![Urdu pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
