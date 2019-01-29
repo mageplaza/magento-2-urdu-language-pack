@@ -42,6 +42,8 @@ Install the Urdu language pack via composer is never easier.
 ```
 composer require mageplaza/magento-2-urdu-language-pack:dev-master
 php bin/magento setup:static-content:deploy ur_PK
+php bin/magento indexer:reindex
+php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
@@ -52,6 +54,8 @@ php bin/magento cache:flush
 ```
 composer update mageplaza/magento-2-urdu-language-pack:dev-master
 php bin/magento setup:static-content:deploy ur_PK
+php bin/magento indexer:reindex
+php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
