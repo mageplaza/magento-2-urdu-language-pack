@@ -119,11 +119,13 @@ To download and install Urdu pack manually, you have to access to your server vi
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ur_pk/ur_PK.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ur_pk/`
 
-See this screenshot
+See this screenshot:
 
 ![Urdu pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **ur_pk**
 
 #### Step 2: Flush cache
 
