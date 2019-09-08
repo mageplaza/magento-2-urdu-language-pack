@@ -6,7 +6,7 @@ In this guide, not only the installation guide, you are also directed how to get
 
 Read more [Magento 2 Urdu Language Pack](https://www.mageplaza.com/magento-2-urdu-language-pack.html)
 
-![Mageplaza Urdu language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Urdu language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
