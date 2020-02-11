@@ -10,7 +10,7 @@
  *
  *                     @category  Mageplaza
  *                     @package   Mageplaza_Urdu
- *                     @copyright Copyright (c) 2019
+ *                     @copyright Copyright (c) 2020
  *                     @license   https://www.mageplaza.com/LICENSE.txt
  */
 
