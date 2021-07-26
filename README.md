@@ -2,8 +2,6 @@
 
 How to install **Magento 2 Urdu Language Pack** on Magento 2 store? The best explanation will be pointed out in this topic with the same topic that is built by Mageplaza team. The post allows replacing the default language (English) by the native one (Urdu). That is great idea when your business is growing in Parkistan. Thanks to that, you will gain the expectable results in the conversion.
 
-In this guide, not only the installation guide, you are also directed how to get the translation file through clicking on "Download .zip" button. All requirements to apply the Urdu on the entire store are referred fully and apparently. Take a look at the post now!
-
 Read more [Magento 2 Urdu Language Pack](https://www.mageplaza.com/magento-2-urdu-language-pack.html)
 
 ![Mageplaza Urdu language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
@@ -29,7 +27,7 @@ It is not fully translated? Feel free to contribute:
 - [On Github](https://github.com/mageplaza/magento-2-urdu-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
-Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
+Find other [language packs here](https://www.mageplaza.com/magento-2-extensions/language-packs.html)
 
 ## 2. How to Install Urdu Language Pack
 
@@ -40,17 +38,17 @@ Install the Urdu language pack via composer is never easier.
 
 **Install Urdu pack**:
 
-With Social Proof (recommend):
+With Marketing Automation (recommend):
 
 ```
-composer require mageplaza/magento-2-urdu-language-pack:dev-master avada/module-proofo
+composer require mageplaza/magento-2-urdu-language-pack:dev-master mageplaza/module-smtp 
 php bin/magento setup:static-content:deploy ur_PK
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 ```
 
-Without Social Proof:
+Without Marketing Automation:
 
 ```
 composer require mageplaza/magento-2-urdu-language-pack:dev-master
@@ -166,6 +164,7 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - Magento v2.1.x
 - Magento v2.2.x
 - Magento v2.3.x
+- Magento v2.4.x
 
 
 
